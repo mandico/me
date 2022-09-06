@@ -1,4 +1,5 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="https://public.sn.files.1drv.com/y4mvjIwtzrYD_G7VJBHBrF0-ZVr4qcwqCar9K-MdHZr97u6Kj4h-HjEcK8djVd4ef7IjtF2BYd8QC2vv7F4uinxky-En83P0NnSiTydNlDXXQOjlwjEhrUKJa62NCTdTw_ADIkMghYEOZQAJ-BPpe4hOxSEK8ccnphdV-KzQGnlipzIYn3vlxVw41EZQJ2ffZA3-rQOSSQ7MU6Xij1LY22zCAw0ypgjSGCpKIg2dmVFds4">
+
 
 </br>
 </br>
@@ -6,15 +7,6 @@
 <div dsplay="inline-block">
  
  <h1 align="left">Luiz Mandico</h1>
- <a href="https://www.instagram.com/jeniblo_dev/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
-  </a> 
-  <a href="https://twitter.com/jeniblo_dev">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
-  </a>
-  <a href="https://www.linkedin.com/in/jeniffer-bittencourt">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
-  </a><div>
 
 <a href = "mailto:luizmandico@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luiz-mandico-6a4a2430/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
